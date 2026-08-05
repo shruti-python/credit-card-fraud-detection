@@ -12,4 +12,5 @@ Credit card fraud detection is a Machine Learning application that identifies fr
 - XGBoost
 
 ## Dataset
-Credit Card Fraud Detection Dataset{Kaggle}
+creditcard.csv
+{Kaggle}
